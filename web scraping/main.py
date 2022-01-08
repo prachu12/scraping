@@ -37,5 +37,5 @@ for link in anchors:
 navbarSupportContent = soup.find(id = 'responsive-meta-container')
 print(navbarSupportContent.children)   
 
-elem = soup.select('#loginModel')
-print(elem)
+# elem = soup.select('#loginModel')
+# print(elem)
